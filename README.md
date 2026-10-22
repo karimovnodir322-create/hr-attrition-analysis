@@ -1,6 +1,6 @@
 # Navbahor Group — Xodimlar almashinuvi (Attrition) tahlili
 
-![Dashboard](dashboard.jpg)
+![Dashboard](dashboard.png)
 
 Kompaniyada xodimlar nega va qayerda ko'proq ketayotganini aniqlash uchun HR ma'lumotlarini tozalab, tahlil qildim va Excelda interaktiv dashboard yasadim.
 
