@@ -101,6 +101,5 @@ Dashboard to'liq ishlashi uchun faylni **Microsoft Excel**da oching (Slicer va P
 
 ## Muallif
 
-**[Ismingiz Familiyangiz]**
-LinkedIn: [havola]
-Email: [pochta]
+Karimov Nodir
+Email: karimovnodir322@gmail.com
